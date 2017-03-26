@@ -204,7 +204,7 @@ body {
 .content3-p2 b {
   letter-spacing: 2px;
 }
-.content3-p3 {
+.content3-date {
   font-family: "GothamRounded-Medium";
   font-size: 12px;
   margin: 44px 0 0 767px;
@@ -215,14 +215,14 @@ body {
   display: inline-block;
   width: 25px;
   height: 25px;
-  margin-top: 4px;
+  margin-top: -15px;
 }
 .content3 .fa-angle-left {
-  background: url("../images/sprait.png") no-repeat -27px -80px;
+  background: url("../images/sprait.png") no-repeat -27px -81px;
   margin-left: 764px;
 }
 .content3 .fa-angle-right {
-  background: url("../images/sprait.png") no-repeat -102px -80px;
+  background: url("../images/sprait.png") no-repeat -102px -81px;
   margin-left: 4px;
 }
 /*CONTENT3 ENDS*/
